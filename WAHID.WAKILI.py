@@ -91,20 +91,20 @@ os.system("rm -rf .f1")
 os.system("rm -rf .f2")
 
 logo= f'''
-    88             ##8           ## 
-     88           ## 88        ##
-      88         ##  88       ##
-       88       ##   88      ##
-        88     ##    88     ##
-         88   ##     88    ##          
-          88 ##       88  ## 
+    88             ##8         ## 
+     88           ## 88       ##
+      88         ##  88      ##
+       88       ##   88     ##
+        88     ##    88    ##
+         88   ##     88   ##          
+          88 ##      88  ## 
            b##b       b##b
 WAHID.❤WAKILI
 {50*"-"}
-    Tool Version :     1.0.0❤Free
+    Tool Version :     1.0.2❤Free
     Thanks Alot  :     M.Hamza
-    Facebook      :     Wahid Wakili
-    Country         :      Afghanista
+    Facebook     :     Wahid Wakili
+    Country      :     Afghanistan
 {50*"-"}''' 
 
 #--(Dark@Colours)---#
