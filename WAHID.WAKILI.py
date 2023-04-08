@@ -101,10 +101,10 @@ logo= f'''
            b##b       b##b
 WAHID.❤WAKILI
 {50*"-"}
-    Tool Version :     1.0.2❤Free
-    Thanks Alot  :     M.Hamza
-    Facebook     :     Wahid Wakili
-    Country      :     Afghanistan
+    Tool Version :     1.0.3❤Free
+    Thanks Alot  :     Hamza❤
+    Facebook     :     💥Wahid Wakili🔥
+    Country      :     ❤Afghanistan💪
 {50*"-"}''' 
 
 #--(Dark@Colours)---#
