@@ -101,7 +101,7 @@ logo= f'''
            b##b       b##b
 WAHID.❤WAKILI
 {50*"-"}
-    Tool Version :     1.0.4❤Free
+    Tool Version :     1.0.5❤Free
     Thanks Alot  :     Hamza❤
     Facebook     :     💥Wahid Wakili🔥
     Country      :     ❤Afghanistan💪
